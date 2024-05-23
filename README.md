@@ -6,7 +6,6 @@ The open-source AI chat app for everyone.
 
 ## Demo
 
-View the latest demo [here](https://x.com/mckaywrigley/status/1738273242283151777?s=20).
 
 ## Updates
 
@@ -22,11 +21,9 @@ Be back soon.
 
 Use Chatbot UI without having to host it yourself!
 
-Find the official hosted version of Chatbot UI [here](https://chatbotui.com).
 
 ## Sponsor
 
-If you find Chatbot UI useful, please consider [sponsoring](https://github.com/sponsors/mckaywrigley) me to support my open-source work :)
 
 ## Issues
 
@@ -68,11 +65,7 @@ npm run db-push
 
 to apply the latest migrations to your live database.
 
-## Local Quickstart
 
-Follow these steps to get your own Chatbot UI instance running locally.
-
-You can watch the full video tutorial [here](https://www.youtube.com/watch?v=9Qq3-7-HNgw).
 
 ### 1. Clone the Repo
 
@@ -160,9 +153,6 @@ In the 1st migration file `supabase/migrations/20240108234540_setup.sql` you wil
 
 This prevents issues with storage files not being deleted properly.
 
-### 5. Install Ollama (optional for local models)
-
-Follow the instructions [here](https://github.com/jmorganca/ollama#macos).
 
 ### 6. Run app locally
 
@@ -282,11 +272,3 @@ For the full list of environment variables, refer to the '.env.local.example' fi
 Click "Deploy" and wait for your frontend to deploy.
 
 Once deployed, you should be able to use your hosted instance of Chatbot UI via the URL Vercel gives you.
-
-## Contributing
-
-We are working on a guide for contributing.
-
-## Contact
-
-Message Mckay on [Twitter/X](https://twitter.com/mckaywrigley)
