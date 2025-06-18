@@ -57,7 +57,7 @@ to apply the latest migrations to your live database.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/mckaywrigley/chatbot-ui.git
+git clone https://github.com/nimisha2099/AI-based-chatbot.git
 ```
 
 ### 2. Install Dependencies
